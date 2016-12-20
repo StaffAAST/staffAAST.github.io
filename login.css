@@ -1,0 +1,47 @@
+﻿.city {
+
+
+  margin:10px;
+padding:45px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+
+}
+
+
+#Nav li {
+	display: block;
+	float: left;
+	font-size: large;
+	height: 20px;
+	text-decoration: none;
+}
+#Nav a   {    
+color:#008000;
+	display: block;
+	float: left;
+	font-size: large;
+	height: 20px;
+	text-decoration: none;
+	text-indent: 0px;
+}
+div#Header {
+margin:0px auto;
+             height: 45px;
+	width : 950px;
+}
+
+
+.B {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	padding: 50px 80px;}
+}
